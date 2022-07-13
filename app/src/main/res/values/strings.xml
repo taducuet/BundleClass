@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BundleClass</string>
+    <string name="message">Hello</string>
+</resources>
